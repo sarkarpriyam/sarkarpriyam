@@ -13,16 +13,16 @@
 <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODI3NzI4NzQsIm5iZiI6MTc4Mjc3MjU3NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjI5VDIyMzYxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ZDBjMzhiMTdhNzc5ZGVjYzk2M2JkODhmYjc4MjBiMWY4YWZlYjY0NzRmMGE0MzUxM2FiMWNlZDRjY2EwOTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.gxXiWNvZSpmmmeq39VE_r9as_Zi2XHBti3Be9oi_Uj8" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Hi, I'm Priyam Sarkar
+- Hi, I'm _**Priyam Sarkar**_
 - I'm a student and aspiring software developer who enjoys building real-world applications and exploring modern technologies. I'm passionate about backend development, DevOps, artificial intelligence, and open-source software.
 - I believe in learning by building. Whether I'm developing new projects, solving programming challenges, or experimenting with new tools and frameworks, I'm always looking for ways to improve my skills and deepen my understanding of software engineering.
-- 🚀 Interests
+### 🚀 Interests
 * Full-Stack Development
 * Backend Engineering
 * Artificial Intelligence & Machine Learning
 * DevOps & Cloud Technologies
 * Linux & Open Source
-- 🌱 Currently
+### 🌱 Currently
 * Building projects and expanding my portfolio
 * Learning new technologies every day
 * Solving algorithmic and system design problems
